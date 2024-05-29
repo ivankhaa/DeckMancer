@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\DeckMancer Engine\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DeckMancer Engine\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DeckMancer Engine\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DeckMancer Engine\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DeckMancer Engine\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.exe
+C:\Users\Admin\source\repos\DeckMancer Engine\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.deps.json
+C:\Users\Admin\source\repos\DeckMancer Engine\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.runtimeconfig.json
+C:\Users\Admin\source\repos\DeckMancer Engine\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DeckMancer Engine\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.dll
+C:\Users\Admin\source\repos\DeckMancer Engine\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.pdb
+C:\Users\Admin\source\repos\DeckMancer Engine\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.dll
+C:\Users\Admin\source\repos\DeckMancer Engine\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.pdb
+C:\Users\Admin\source\repos\DeckMancer Engine\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.genruntimeconfig.cache

@@ -1,0 +1,3 @@
+C:\Users\Admin\source\repos\DeckMancer Engine\Game\bin\Release\netcoreapp3.1\publish\p\Game.pdb
+C:\Users\Admin\source\repos\DeckMancer Engine\Game\bin\Release\netcoreapp3.1\publish\p\DeckMancer.pdb
+C:\Users\Admin\source\repos\DeckMancer Engine\Game\bin\Release\netcoreapp3.1\publish\p\Game.exe

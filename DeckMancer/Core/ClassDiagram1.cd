@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DeckMancer.Core.Behaviour">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACCAAACAAAAAAAAAABIAAAAAIAAAAAACAAA=</HashCode>
+      <FileName>Core\Components\Behaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.Camera">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACBACAAAAAAgAAA0AAABAAAAAAAAIAAAIQAgA=</HashCode>
+      <FileName>Core\Components\Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.Component" Collapsed="true">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Components\Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.Material">
+    <Position X="5.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAQAIAAAAAAAAAAAAECAAAAAAAAoAgAAAAAA=</HashCode>
+      <FileName>Core\Components\Material.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.Mesh">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAEIAAAAAAAAA=</HashCode>
+      <FileName>Core\Components\Mesh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.Script">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Core\Components\Script.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.Texture">
+    <Position X="7.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQQAABAAAAAAAAAAAAEAAAAAAABAAAAAAAAAAABA=</HashCode>
+      <FileName>Core\Components\Texture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.Transform">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAwAAIAAAAAAAAAAAAAAAgAgAAAAAA=</HashCode>
+      <FileName>Core\Components\Transform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.AudioLoader" Collapsed="true">
+    <Position X="25.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\AudioLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.ClientServer">
+    <Position X="19" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AARgAAACAAAAAIAAAAIAAAAAAAgCAAiACBAIBgAAAAA=</HashCode>
+      <FileName>Core\ClientServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.ComponentMapping">
+    <Position X="10.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAQAAAAAAAAAAAAAAAAAAAAACAgAAAABAAAA=</HashCode>
+      <FileName>Core\ComponentMapping.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.Debug" Collapsed="true">
+    <Position X="24.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAABAAAAAABAAAAAAAAAAFAIAA=</HashCode>
+      <FileName>Core\Debug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.FileItem" Collapsed="true">
+    <Position X="26.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAgAAAAAAAAAQQBAAAAQAIAAAAAAAAAAE=</HashCode>
+      <FileName>Core\FileItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.FileManager" Collapsed="true">
+    <Position X="26.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACEAAAAAAAAAIAAAAEQAAQAAAAAAAAQAEAIEAAECA=</HashCode>
+      <FileName>Core\FileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.GameObject">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAIAAAAAACABAQgAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Core\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.GlobalGameManager" Collapsed="true">
+    <Position X="28.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAEAQAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAA=</HashCode>
+      <FileName>Core\GlobalGameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.ImageLoader" Collapsed="true">
+    <Position X="26.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAQAAAQAAAAAAAAA=</HashCode>
+      <FileName>Core\ImageLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.MainCamera">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABBAAAAAAIAAAAAAAEAAAEAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Core\MainCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.Object">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Object.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.ReadFile" Collapsed="true">
+    <Position X="23.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Core\ReadFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.DebugContent" Collapsed="true">
+    <Position X="28.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAABAAAAIAAAAAE=</HashCode>
+      <FileName>Core\SampleDebug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.SampleDebug" Collapsed="true">
+    <Position X="26.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAACIAAAAAAIQAAABABABIAAAAAAQAAAAAFAIAQ=</HashCode>
+      <FileName>Core\SampleDebug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.Scene">
+    <Position X="11" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AARgAAAECAAAgAAAEAQAAAQAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Core\Scene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Core.SceneManager">
+    <Position X="11" Y="6.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAIEAgAAICAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Core\SceneManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="DeckMancer.Core.FileManagerError" Collapsed="true">
+    <Position X="26.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Core\FileManager.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="DeckMancer.Core.WarpMode" Collapsed="true">
+    <Position X="25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAgAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Core\Components\Texture.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DeckMancer.Core.FilterMode" Collapsed="true">
+    <Position X="25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAIAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Components\Texture.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DeckMancer.Core.AnisotropicMode" Collapsed="true">
+    <Position X="25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAQAAAAAAAAIAAAAACAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Core\Components\Texture.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DeckMancer.Core.DebugIcon" Collapsed="true">
+    <Position X="30" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAABAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Core\SampleDebug.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

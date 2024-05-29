@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DeckMancer.API.OpenGL.ArrayBuffer">
+    <Position X="4" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAIAAAAAYAAICAAAAAAAAIAAAAACAAAAAAA=</HashCode>
+      <FileName>API\OpenGL\ArrayBuffer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.API.OpenGL.FragmentShader" Collapsed="true">
+    <Position X="13.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>API\OpenGL\FragmentShader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.API.OpenGL.FrameBuffer">
+    <Position X="4" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAQAAAAABAAAAAAAAAAAAIAAAAAEAAAAAAAA=</HashCode>
+      <FileName>API\OpenGL\FrameBuffer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.API.OpenGL.ShaderProgram">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAQAAAAAAAAAAAAAAAEAQAIAAACAAQACAA=</HashCode>
+      <FileName>API\OpenGL\ShaderProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.API.OpenGL.TextureBuffer">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAQAAAAAAAAAACAABACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>API\OpenGL\TextureBuffer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.API.OpenGL.VertexArray">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>API\OpenGL\VertexArray.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.API.OpenGL.VertexLayout" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAQAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>API\OpenGL\VertexLayout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.API.OpenGL.VertexShader" Collapsed="true">
+    <Position X="14.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>API\OpenGL\VertexShader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Engine.CameraEditor" Collapsed="true">
+    <Position X="13.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAADAAACBBCBABAgIgIBAkAAABAAFAAAACAAgQACAiA=</HashCode>
+      <FileName>Engine\CameraEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Engine.FontRender" Collapsed="true">
+    <Position X="11.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAQAAQAAAAAAAAAAAAAAAIACAAQAAAI0AACA=</HashCode>
+      <FileName>Engine\FontRender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Engine.GameObjectRenderEditor" Collapsed="true">
+    <Position X="12" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAigAggQIAAIAgmgAQAAAoCAAAAAEAgAA=</HashCode>
+      <FileName>Engine\GameObjectRenderEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Engine.GridRenderer" Collapsed="true">
+    <Position X="14" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAABAAAAggAggAIABAAgAAAAAQAIAAAAAAEBAAA=</HashCode>
+      <FileName>Engine\GridRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Engine.QuadRenderer" Collapsed="true">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAgAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\QuadRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Engine.RenderEditor">
+    <Position X="11" Y="7" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>kIUAAIIAgGAAACAAAAEgAAAIAAAAAAAAIFAAABAQAiA=</HashCode>
+      <FileName>Engine\RenderEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Engine.RenderEditorManager">
+    <Position X="13.75" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAAAAAAAAAAAAAAAAgAAAAACAAAoAAAAgAAQA=</HashCode>
+      <FileName>Engine\RenderEditorManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckMancer.Engine.WavefrontObjLoader" Collapsed="true">
+    <Position X="13.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\WavefrontObjLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObjectRender">
+    <Position X="6.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAigQAAQAAAIAgmgAQAAAoCAAAACAAgAA=</HashCode>
+      <FileName>Engine\GameObjectRender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="DeckMancer.API.OpenGL.VertexAttribute" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAEAAAAAgAAAAAAAAAQAAAAAAQAAAQAAAAAAgAA=</HashCode>
+      <FileName>API\OpenGL\VertexAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="DeckMancer.Engine.GridSettings" Collapsed="true">
+    <Position X="15.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAEAAAAAAAAAAgAIAAAA=</HashCode>
+      <FileName>Engine\GridSettings.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="DeckMancer.API.OpenGL.VertexAttributeType" Collapsed="true">
+    <Position X="11.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAIAAAAEAIAgAAAAAA=</HashCode>
+      <FileName>API\OpenGL\VertexAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

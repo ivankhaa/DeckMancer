@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>DeckMancer.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="API\OpenGL\Shader\**" />
+    <EmbeddedResource Remove="API\OpenGL\Shader\**" />
+    <None Remove="API\OpenGL\Shader\**" />
+    <Page Remove="API\OpenGL\Shader\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="DeckMancer.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AssimpNet" Version="4.1.0" />
+    <PackageReference Include="EnvDTE80" Version="17.9.37000" />
+    <PackageReference Include="FreeTypeSharp" Version="1.1.3" />
+    <PackageReference Include="Microsoft.Build" Version="16.9.0" />
+    <PackageReference Include="Microsoft.CodeAnalysis.Common" Version="4.9.2" />
+    <PackageReference Include="Microsoft.CodeAnalysis.CSharp" Version="4.9.2" />
+    <PackageReference Include="NAudio" Version="2.2.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Ookii.Dialogs.Wpf" Version="5.0.1" />
+    <PackageReference Include="OpenTK.GLWpfControl" Version="4.2.3" />
+    <PackageReference Include="PixiEditor.ColorPicker" Version="3.4.1" />
+    <PackageReference Include="SkiaSharp" Version="2.88.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MultiSelectTreeView">
+      <HintPath>..\MultiSelectTreeView.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="DeckMancer.png" />
+  </ItemGroup>
+
+</Project>

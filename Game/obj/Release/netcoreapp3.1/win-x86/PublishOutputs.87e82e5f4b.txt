@@ -1,0 +1,3 @@
+C:\Users\Admin\source\repos\DeckMancer Engine\DeckMancer\bin\Debug\netcoreapp3.1\Resource\Sample\Game.pdb
+C:\Users\Admin\source\repos\DeckMancer Engine\DeckMancer\bin\Debug\netcoreapp3.1\Resource\Sample\DeckMancer.pdb
+C:\Users\Admin\source\repos\DeckMancer Engine\DeckMancer\bin\Debug\netcoreapp3.1\Resource\Sample\Game.exe
